@@ -1,16 +1,23 @@
-### Hi there 👋
+## Kunnskap9
+- 🔭 I’m currently working on A New Project Called "Flash"
 
-<!--
-**kunnskap9/kunnskap9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Everything i can
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: Psycho was the first movie to show a toilet flushing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contact Me:
+
+[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thekunnskap9)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kunnskap9)
+
+
+
+- Some Cyber PDFs For Beginners:
+Introduction to Cyber Security:
+https://uou.ac.in/sites/default/files/slm/Introduction-cyber-security.pdf
+
+- Global Cybersecurity Outlook 2022
+https://www3.weforum.org/docs/WEF_Global_Cybersecurity_Outlook_2022.pdf
+
+- DIGITAL NOTES ON CYBER SECURITY
+https://mrcet.com/pdf/Lab%20Manuals/IT/CYBER%20SECURITY%20(R18A0521).pdf
